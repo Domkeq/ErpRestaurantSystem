@@ -1,0 +1,14 @@
+# Visual Studio исключения
+.vs/
+*.user
+*.suo
+*.cache
+*.pdb
+bin/
+obj/
+*.log
+
+# Temporary files
+*.tmp
+*.log
+*.vscode
